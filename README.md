@@ -1,3 +1,10 @@
+Fork from [redis/hiredis](https://github.com/redis/hiredis)
+
+This fork is used for learning redis protocol.
+
+Below is copied from redis/hiredis official repo.
+
+
 [![Build Status](https://travis-ci.org/redis/hiredis.png)](https://travis-ci.org/redis/hiredis)
 
 # HIREDIS
